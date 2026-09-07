@@ -29,6 +29,16 @@ depuis l’API WordPress du site, puis le met en cache pour la relecture hors-li
 - Reprise de la dernière lecture
 - Cache local des sommaires et des pages déjà ouvertes
 
+## Installer sur un téléphone
+
+Téléchargez [`apk/BeOrot-1.0.0.apk`](apk/BeOrot-1.0.0.apk) (environ 18 Mo).
+
+1. Envoyez le fichier sur le téléphone (ou téléchargez-le depuis GitHub).
+2. Ouvrez-le. Android demandera d’autoriser l’installation depuis cette source (Chrome, Fichiers, Drive…).
+3. Installez **ביאורי אורות**. Il faut une connexion internet pour charger les livres.
+
+Minimum : Android 8.0.
+
 ## Compiler l’application
 
 1. Installer [Android Studio](https://developer.android.com/studio) (JDK 17+, SDK 35).
