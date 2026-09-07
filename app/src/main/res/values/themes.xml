@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Orot" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1C140C</item>
+        <item name="android:navigationBarColor">#F7F1E4</item>
+        <item name="android:windowBackground">#F7F1E4</item>
+    </style>
+</resources>
